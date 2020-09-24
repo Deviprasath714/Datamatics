@@ -1,0 +1,16 @@
+.employeeTable {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+
+}
+
+.employeeTable tr,th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.employeeTable tr:nth-child(even) {
+  background-color: #dddddd;
+}

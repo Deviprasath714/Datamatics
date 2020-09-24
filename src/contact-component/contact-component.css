@@ -1,0 +1,44 @@
+.contactform{
+  margin: 20px;
+}
+fieldset{
+    border: none;
+}
+.form-section{
+    display: flex;
+}
+.contactform{
+    margin: 0 auto;
+    width:100%;
+}
+input{
+  margin-bottom: 5px;
+  height: 30px;
+  border: 1px solid #d8d8d8;
+  padding: 3px;
+  width: 30%
+}
+
+textarea{
+  border: 1px solid #d8d8d8;
+  padding: 3px;
+}
+.react-datepicker-wrapper{
+    width: 30%
+}
+.react-datepicker-wrapper input{
+    width:100%;
+}
+.submitbutton{
+  padding: 10px;
+    cursor: pointer;
+    border: 1px solid #cccccc;
+    background: #dddddd;
+  border-radius: 3px;
+}
+
+.error{
+  margin-left: 5px;
+  font-size: 13px;
+  color: red;
+}

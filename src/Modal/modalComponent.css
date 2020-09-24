@@ -1,0 +1,7 @@
+.popup.inactive{
+    background: red;
+}
+
+.popup.active{
+    background:green;
+}
